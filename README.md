@@ -1,6 +1,6 @@
 # *Renzo2D*
 <b>Version 1.001<b/> <br>
-<b>Created by Renzo Dela Pena<b/>
+<b>Created by Renzo Dela Pena<b/> <br>
 <b>This is a platform game, you control the player.<b/> <br>
 **Controls**
 > W - Run Forward <br>
